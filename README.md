@@ -1,5 +1,5 @@
 # nexus-homepage
-Homepage for the Nexus
+Homepage for Nexus
 
 
 
