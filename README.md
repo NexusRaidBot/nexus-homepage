@@ -1,5 +1,5 @@
 # nexus-homepage
-Homepage for the Nexus Discord Bot
+Homepage for the Nexus
 
 
 
